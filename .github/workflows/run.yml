@@ -1,4 +1,4 @@
-name: Hourly Python Script
+name: pmnlpro105-autoupdate
 
 on:
   schedule:
